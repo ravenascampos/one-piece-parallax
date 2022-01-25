@@ -10,4 +10,4 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - CSS
 
 ## Página do projeto
-[Clique aqui](https://ravenascampos.github.io/contador-js-basico/)
+[Clique aqui](https://ravenascampos.github.io/one-piece-parallax/)
